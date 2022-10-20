@@ -4,76 +4,50 @@
       <FoodName>ต๋วยเตี๋ยวตึงๆ</FoodName>
       <Price>60 บาท</Price>
     </ThaiFood>
-</Food>
-
-<Food>
    <ThaiFood>
       <FoodID>002</FoodID>
       <FoodName>โอริโอ้ปั่นตึงๆ</FoodName>
       <Price>25 บาท</Price>
     </ThaiFood>
-</Food>
-
-Food>
    <ThaiFood>
       <FoodID>003</FoodID>
       <FoodName>ยำมาม่าตึงๆ</FoodName>
       <Price>50 บาท</Price>
     </ThaiFood>
-</Food>
-
-Food>
    <ThaiFood>
       <FoodID>004</FoodID>
       <FoodName>ข้าวมันไก่ตึงๆ</FoodName>
       <Price>30 บาท</Price>
     </ThaiFood>
-</Food>
-
-Food>
    <ThaiFood>
       <FoodID>005</FoodID>
       <FoodName>ทูน่าสลัดตึงๆ</FoodName>
       <Price>45 บาท</Price>
     </ThaiFood>
-</Food>
-
-Food>
    <ThaiFood>
       <FoodID>006</FoodID>
       <FoodName>มะเขือเทศปั่นตึงๆ</FoodName>
       <Price>25 บาท</Price>
     </ThaiFood>
-</Food>
-
-Food>
    <ThaiFood>
       <FoodID>007</FoodID>
       <FoodName>ราดหน้าตึงๆ</FoodName>
       <Price>25 บาท</Price>
     </ThaiFood>
-</Food>
-
-Food>
    <ThaiFood>
       <FoodID>008</FoodID>
       <FoodName>กระเพราหมูกรอบตึงๆ</FoodName>
       <Price>50 บาท</Price>
     </ThaiFood>
-</Food>
-
-Food>
    <ThaiFood>
       <FoodID>009</FoodID>
       <FoodName>พายบลูเบอร์รี่ตึงๆ</FoodName>
       <Price>65 บาท</Price>
     </ThaiFood>
-</Food>
-
-Food>
    <ThaiFood>
       <FoodID>010</FoodID>
       <FoodName>เเมลงสาบทอดโคตรอี้</FoodName>
       <Price> 10 บาท</Price>
     </ThaiFood>
 </Food>
+
