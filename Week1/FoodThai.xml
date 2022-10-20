@@ -1,15 +1,15 @@
 <Food>
    <ThaiFood>
-      <FoodID>0012</FoodID>
+      <FoodID>001</FoodID>
       <FoodName>ต๋วยเตี๋ยว</FoodName>
-      <Price>99 บาท</Price>
+      <Price>60 บาท</Price>
     </ThaiFood>
 </Food>
 
 <Food>
    <ThaiFood>
-      <FoodID>0012</FoodID>
-      <FoodName>ต๋วยเตี๋ยว</FoodName>
-      <Price>99 บาท</Price>
+      <FoodID>002</FoodID>
+      <FoodName>โอริโอ้ปั่น</FoodName>
+      <Price>25 บาท</Price>
     </ThaiFood>
 </Food>
