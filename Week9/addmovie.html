@@ -68,6 +68,9 @@
                     <input type="number" name="" class="form-control" id="graphics">
                 </div>
             </div>
+                 <div class="row"></div>
+                 <div class="col"></div>
+                   <input  class = "btn btn-primary"type='button' value="AddMovie" >
         </form>
     </div>
 
@@ -87,6 +90,27 @@
         integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF"
         crossorigin="anonymous"></script>
 
+
+        <script>
+            let obj = {
+            "movieName": document.forms["myform"][movieName].value,
+            "movieLength":document.forms["myform"][movieLength].value,
+            "director": document.forms["myform"][director].value,
+            "category": document.forms["myform"][category].value,
+            "picture":document.forms["myform"][picture].value ,
+            "review": {
+                "review": document.forms["myform"][review].value ,
+                "score": {
+                    "screenPlay":document.forms["myform"][screenPlay].value ,
+                    "playing":document.forms["myform"][playing].value ,
+                    "music": document.forms["myform"][music].value,
+                    "actorSkills":document.forms["myform"][actorSkills].value ,
+                    "graphics":document.forms["myform"][graphicse].value ,
+                    "average": null
+            }
+        }
+    }
+        </script>
 </body>
 
 </html>
